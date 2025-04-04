@@ -1,0 +1,15 @@
+{
+    "name": "glohm/processo-seletivo",
+    "autoload": {
+        "psr-4": {
+            "Glohm\\ProcessoSeletivo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gustavolohmann",
+            "email": "gustavolohmannlinz@gmail.com"
+        }
+    ],
+    "require": {}
+}
